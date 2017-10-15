@@ -14,8 +14,11 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
 
-	gtag('config', 'UA-27961765-1');
-	gtag('config', 'UA-27961765-1', { 'optimize_id': 'GTM-TDPC5JJ'});
+	gtag('config', 'UA-27961765-1', { 
+		'optimize_id': 'GTM-TDPC5JJ',
+		'link_attribution': true
+	});
+	gtag('event', 'sign_up', {'method': 'Google'});
 </script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
