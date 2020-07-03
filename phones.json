@@ -1,0 +1,45 @@
+[{
+    "ID" : "P0001",
+    "ID2" : "P001A",
+    "Item Title" : "Google Pixel 4",
+    "Final URL" : "https://store.google.com/us/product/pixel_4",
+    "Image URL" : "https://lh3.googleusercontent.com/qFd_GwwRdmU6bePdrwf-R6mYhTtFgSJw4do4JGXzrJvnUi0qgUsBFp1L0PIrCllZzd0j",
+    "Item subtitle" : "Clearly White",
+    "Item description" : "En Plan 100",
+    "Item category" : "Postpago",
+    "Price" : "800 USD",
+    "Sale price" : "800 USD"
+},{
+    "ID" : "P0002",
+    "ID2" : "P002A",
+    "Item Title" : "Google Pixel 4",
+    "Final URL" : "https://store.google.com/us/product/pixel_4",
+    "Image URL" : "https://lh3.googleusercontent.com/1cAx0YybaOQTBwtk7gC4Ndef4w__Lg0MT-TsY7O5ycMnEEVF0l3YTtyrEGYhWNINzw",
+    "Item subtitle" : "Just Black",
+    "Item description" : "En Plan 200",
+    "Item category" : "Postpago",
+    "Price" : "900 USD",
+    "Sale price" : "900 USD"
+},{
+    "ID" : "P0003",
+    "ID2" : "P003A",
+    "Item Title" : "Google Pixel 3a",
+    "Final URL" : "https://store.google.com/us/product/pixel_3a",
+    "Image URL" : "https://lh3.googleusercontent.com/88HjMDp5XeKra4w3J0cXLcFUag8KuK_mPMFOlMyPKh2jtWGTqJLNzhTselqpRi0ShMY",
+    "Item subtitle" : "Just Black",
+    "Item description" : "En Plan 300",
+    "Item category" : "Postpago",
+    "Price" : "500 USD",
+    "Sale price" : "500 USD"
+},{
+    "ID" : "P0004",
+    "ID2" : "P004A",
+    "Item Title" : "Google Pixel 3a",
+    "Final URL" : "https://store.google.com/us/product/pixel_3a",
+    "Image URL" : "https://lh3.googleusercontent.com/Hb2Ukcr-l7L_-99clsE58YtUBFwITvjUVO3T3P5mH2OmdA0TS5cdDyClxu4Veu0AkBM",
+    "Item subtitle" : "Just Black",
+    "Item description" : "En Plan 500",
+    "Item category" : "Postpago",
+    "Price" : "100 USD",
+    "Sale price" : "100 USD"
+}]
